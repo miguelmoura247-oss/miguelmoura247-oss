@@ -1,14 +1,13 @@
 <div align="center">
-  <!-- Banner principal -->
-  <img src="portifolio.png" alt="Banner de Portfólio - Miguel Moura Mendes" width="100%">
+  <!-- Banner principal: certifique-se de que o arquivo portifolio.png está na raiz do repositório -->
+  <img src="./portifolio.png" alt="Banner de Portfólio - Miguel Moura Mendes" width="100%">
 
   <br><br>
 
-  
-  <a href="www.linkedin.com/in/miguel-moura-mendes-760a5829b">
+  <a href="https://www.linkedin.com/in/miguel-moura-mendes-760a5829b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="mailto:miguelmoura247@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
@@ -57,5 +56,3 @@ Sou entusiasta do desenvolvimento de software, algoritmos e automação de proce
 
 - 📜 **[programacao_de_computadore_3](https://github.com/miguelmoura247-oss/programacao_de_computadore_3)**
   > Projetos e exercícios desenvolvidos em JavaScript.
-
----
