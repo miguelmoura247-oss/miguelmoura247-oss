@@ -43,16 +43,16 @@ Sou entusiasta do desenvolvimento de software, algoritmos e automação de proce
 
 ---
 
-## 📌 Repositórios & Destaques
+##  Repositórios & Destaques
 
-- 💳 **[projeto-de-autom-o-com-MySQL-e-n8n](https://github.com/miguelmoura247-oss/projeto-de-autom-o-com-MySQL-e-n8n)**
+-  **[projeto-de-autom-o-com-MySQL-e-n8n](https://github.com/miguelmoura247-oss/projeto-de-autom-o-com-MySQL-e-n8n)**
   > Automação de cobrança de empréstimo de uma instituição bancária com dados fictícios usando MySQL e n8n.
 
-- 💻 **[programas_em_c](https://github.com/miguelmoura247-oss/programas_em_c)**
+-  **[programas_em_c](https://github.com/miguelmoura247-oss/programas_em_c)**
   > Conjunto de algoritmos e programas desenvolvidos em C para atividades acadêmicas.
 
-- 📈 **[Computacao_Grafica](https://github.com/miguelmoura247-oss/Computacao_Grafica)**
+-  **[Computacao_Grafica](https://github.com/miguelmoura247-oss/Computacao_Grafica)**
   > Códigos e atividades da disciplina de Computação Gráfica utilizando Python.
 
-- 📜 **[programacao_de_computadore_3](https://github.com/miguelmoura247-oss/programacao_de_computadores_3)**
+**[programacao_de_computadores_3](https://github.com/miguelmoura247-oss/programacao_de_computadores_3)**
   > Projetos e exercícios desenvolvidos em JavaScript.
