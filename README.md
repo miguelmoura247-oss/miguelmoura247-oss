@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner principal: certifique-se de que o arquivo portifolio.png está na raiz do repositório -->
-  <img src="./portifolio.png" alt="Banner de Portfólio - Miguel Moura Mendes" width="100%">
+  <img src="./portfólio.png" alt="Banner de Portfólio - Miguel Moura Mendes" width="100%">
 
   <br><br>
 
