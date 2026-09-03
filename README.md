@@ -4,8 +4,8 @@
 
   <br><br>
 
-  <!-- Badges de Contato e Status -->
-  <a href="https://linkedin.com/in/SEU_USUARIO_LINKEDIN">
+  
+  <a href="www.linkedin.com/in/miguel-moura-mendes-760a5829b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:seuemail@exemplo.com">
@@ -60,7 +60,3 @@ Sou entusiasta do desenvolvimento de software, algoritmos e automação de proce
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miguelmoura247-oss&show_icons=true&theme=dark&count_private=true" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmoura247-oss&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150"/>
-</div>
