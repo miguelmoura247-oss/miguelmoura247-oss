@@ -59,4 +59,3 @@ Sou entusiasta do desenvolvimento de software, algoritmos e automação de proce
   > Projetos e exercícios desenvolvidos em JavaScript.
 
 ---
-
