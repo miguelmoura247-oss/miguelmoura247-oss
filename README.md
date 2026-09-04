@@ -43,6 +43,7 @@ Sou entusiasta do desenvolvimento de software, algoritmos e automação de proce
 
 ---
 
+
 ##  Repositórios & Destaques
 
 -  **[projeto-de-autom-o-com-MySQL-e-n8n](https://github.com/miguelmoura247-oss/projeto-de-autom-o-com-MySQL-e-n8n)**
@@ -54,5 +55,5 @@ Sou entusiasta do desenvolvimento de software, algoritmos e automação de proce
 -  **[Computacao_Grafica](https://github.com/miguelmoura247-oss/Computacao_Grafica)**
   > Códigos e atividades da disciplina de Computação Gráfica utilizando Python.
 
--**[programacao_de_computadores_3](https://github.com/miguelmoura247-oss/programacao_de_computadores_3)**
+-  **[programacao_de_computadores_3](https://github.com/miguelmoura247-oss/programacao_de_computadores_3)**
   > Projetos e exercícios desenvolvidos em JavaScript.
