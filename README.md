@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- Banner principal: certifique-se de que o arquivo portifolio.png está na raiz do repositório -->
+  <!-- Banner principal: certifique-se de que o arquivo portfólio.png está na raiz do repositório -->
   <img src="./portfólio.png" alt="Banner de Portfólio - Miguel Moura Mendes" width="100%">
 
   <br><br>
@@ -9,6 +9,9 @@
   </a>
   <a href="mailto:miguelmoura247@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/miguelmoura247-oss">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
 
@@ -31,6 +34,7 @@ Sou entusiasta do desenvolvimento de software, algoritmos e automação de proce
 ### **Linguagens & Programação**
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
@@ -43,17 +47,19 @@ Sou entusiasta do desenvolvimento de software, algoritmos e automação de proce
 
 ---
 
+## 📂 Repositórios & Destaques
 
-##  Repositórios & Destaques
-
--  **[projeto-de-autom-o-com-MySQL-e-n8n](https://github.com/miguelmoura247-oss/projeto-de-autom-o-com-MySQL-e-n8n)**
+- 🔗 **[projeto-de-autom-o-com-MySQL-e-n8n](https://github.com/miguelmoura247-oss/projeto-de-autom-o-com-MySQL-e-n8n)**
   > Automação de cobrança de empréstimo de uma instituição bancária com dados fictícios usando MySQL e n8n.
 
--  **[programas_em_c](https://github.com/miguelmoura247-oss/programas_em_c)**
+- ⚡ **[programas_em_cplusplus](https://github.com/miguelmoura247-oss/programas_em_cplusplus)**
+  > Algoritmos e estruturas de dados desenvolvidos em C++.
+
+- ⚙️ **[programas_em_c](https://github.com/miguelmoura247-oss/programas_em_c)**
   > Conjunto de algoritmos e programas desenvolvidos em C para atividades acadêmicas.
 
--  **[Computacao_Grafica](https://github.com/miguelmoura247-oss/Computacao_Grafica)**
+- 🎨 **[Computacao_Grafica](https://github.com/miguelmoura247-oss/Computacao_Grafica)**
   > Códigos e atividades da disciplina de Computação Gráfica utilizando Python.
 
--  **[programacao_de_computadores_3](https://github.com/miguelmoura247-oss/programacao_de_computadores_3)**
+- 🌐 **[programacao_de_computadores_3](https://github.com/miguelmoura247-oss/programacao_de_computadores_3)**
   > Projetos e exercícios desenvolvidos em JavaScript.
